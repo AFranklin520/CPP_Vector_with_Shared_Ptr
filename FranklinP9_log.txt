@@ -1,0 +1,46 @@
+Anthony Franklin afranklin18@cnm.edu
+04/21/2022
+FranklinP9
+***** PROGRAM TO DEMONSTRATE SHARED_PTR IN A VECTOR *****
+
+New StudentUser has been created.
+Reference count is now: 1
+New StudentUser has been created.
+Reference count is now: 2
+New StudentUser has been created.
+Reference count is now: 3
+New StudentUser has been created.
+Reference count is now: 4
+Anthony Franklin has added War and Pizzas: The Battle for Deliciousness to the vector.
+Vector size is now 4
+Ivonne Nelson has added Another Test Title to the vector.
+Vector size is now 5
+John Doe has added What to Do When you Can't Think of a Funny Title to the vector.
+Vector size is now 6
+Mike Hawk has added My Struggle (Against the World) to the vector.
+Vector size is now 7
+Ivonne Nelson has added The Last Title to the vector.
+Vector size is now 8
+1 pointers are currently pointed at What, Another Title?!
+John Doe is making a copy of What, Another Title?!
+2 pointers are currently pointed at What, Another Title?!
+Mike Hawk is making a copy of What, Another Title?!
+3 pointers are currently pointed at What, Another Title?!
+1 pointers are currently pointed at A Second Title
+Anthony Franklin is making a copy of A Second Title
+2 pointers are currently pointed at A Second Title
+Anthony Franklin is now going out of scope and is being deleted.
+Reference count is now: 3
+1 pointers are currently pointed at A Second Title
+
+Ivonne Nelson has popped a vector item.
+Vector size is now 6
+Ivonne Nelson has popped a vector item.
+Vector size is now 5
+
+John Doe is now going out of scope and is being deleted.
+Reference count is now: 2
+Mike Hawk is now going out of scope and is being deleted.
+Reference count is now: 1
+Ivonne Nelson is now going out of scope and is being deleted.
+Reference count is now: 0
